@@ -12,3 +12,22 @@ console.log(valueInNumber)
 //Boolean(value)
 //Number(value)
 //String(vales)
+
+
+// ************************operations*****************
+
+let str = "sss"
+let str1 = "str"
+
+console.log(str + str1)
+
+// *********************comparision*****************
+//null > 0 false
+//null == 0 false
+//null >= 0 true
+
+
+// === scrict check data type with value 
+
+
+
